@@ -1,6 +1,6 @@
 {
   "engines": {
-    "node": ">=18"
+    "node": "18"
   },
   "devDependencies": {
     "@rocketseat/eslint-config": "^2.2.2",
